@@ -1,2 +1,6 @@
 - 👋 Hi, I’m @ROksanaRymarenko
 - 👀 Data Analyst / Product Analyst
+- Became a physicist
+- Working in business
+- Know that data is more than numbers
+- Uunderstand what data is for and how to use data for making decisions
