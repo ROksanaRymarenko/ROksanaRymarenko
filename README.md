@@ -3,4 +3,4 @@
 - Became a physicist
 - Working in business
 - Know that data is more than numbers
-- Understand what data is for and how to use data for making decisions
+- Understand what data is for and how to use data for making business decisions
